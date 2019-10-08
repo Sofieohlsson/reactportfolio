@@ -16,26 +16,26 @@ class Carousel extends React.Component {
             items: [
                 {
                     id: 0, 
-                    title: 'Dev Grub', 
-                    subTitle: 'The cookbook for developers', 
+                    title: 'Travel', 
+                    subTitle: 'Hike, sun or city trip?', 
                     imgSrc: devgrub,
-                    link: 'https://devgrub.com', 
+                    link: 'https://www.airbnb.com/', 
                     selected: false 
                 },
                 {
                     id: 1, 
-                    title: 'Garrett Love', 
-                    subTitle: 'YouTube channel', 
+                    title: 'Nature', 
+                    subTitle: 'Take me on an adventure', 
                     imgSrc: youtube, 
-                    link: 'https://youtube.com',
+                    link: 'https://www.thrillist.com/travel/nation/the-most-beautiful-forests-in-the-world',
                     selected: false
                 },
                 {
                     id: 2, 
-                    title: 'Evverest', 
-                    subTitle: 'A social network for developers', 
+                    title: 'Squirrel', 
+                    subTitle: 'Want to see more squirrels?', 
                     imgSrc: evverest, 
-                    link: 'https://github.com',
+                    link: 'https://www.google.com/search?q=squirrel&sxsrf=ACYBGNRqchKVGz3r3cdjkKs3mJBsonMmAw:1570518816211&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA15zBjozlAhUpi8MKHdmBCpoQ_AUIEigB&biw=1440&bih=729',
                     selected: false
                 }
             ]
